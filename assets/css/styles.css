@@ -1,0 +1,117 @@
+.navbar.navbar-dark.navbar-expand-md.fixed-top.bg-dark {
+  background-color: #000;
+  opacity: 0.8;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: white;
+  font-size: 13px;
+}
+
+.fa.fa-apple.apple-logo {
+  color: white;
+  font-size: 21px;
+}
+
+body {
+  padding-top: 50px;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  padding-top: 1;
+}
+
+.product.iphone-x {
+  padding-top: 100px;
+  text-align: center;
+  background-color: rgb(250,250,250);
+}
+
+.h1, h1 {
+  font-size: 50px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.h2, h2 {
+  font-size: 27px;
+  font-weight: 400;
+}
+
+.iphonex {
+  font-size: 27px;
+  margin-bottom: 80px;
+  margin-right: 20px;
+}
+
+.product.ipad {
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+}
+
+.iphonexs {
+  margin-bottom: 100px;
+}
+
+.product.macbookpro {
+  text-align: center;
+  background-color: rgb(19,18,24);
+  margin-bottom: 50px;
+  padding-top: 30px;
+}
+
+#headerpro {
+  color: white;
+}
+
+#headerprooo {
+  color: white;
+}
+
+.smallproducts {
+  margin: 0 0 10px 10px;
+  padding-top: 40px;
+  height: 550px;
+}
+
+.h3, h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.h4, h4 {
+  font-size: 19px;
+  font-weight: 400;
+}
+
+.bobo {
+  color: white;
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.headerProduct.Behind {
+  color: white;
+}
+
+.headerProduct.Behind {
+  padding-top: 260px;
+}
+
+.col-md-6.offset-md-0 {
+  background-color: inherit;
+}
+
+.boboo {
+  color: black;
+  margin-right: 5px;
+}
+
+.boboo {
+  color: rgb(62,140,228);
+}
+
